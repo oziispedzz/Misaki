@@ -86,11 +86,7 @@ global.background = "https://telegra.ph/file/5361453b7995459b67357.jpg";
 - [Group](https://chat.whatsapp.com/IQlB2Snn4Rk5jnxl0HgrQb)
 
 # Thanks to
-<a href="https://github.com/whiskeysockets"><img src="https://github.com/whiskeysockets.png?size=100" width="100" height="100"></a> | [![Fauzi](http://github.com/oziispedzz.png?size=100)](http://github.com/riycoders)
-----|----|----
-[Whiskeysockets](https://github.com/whiskeysockets) | [Fauzi](https://github.com/oziispedzz)
-
-Owner of Baileys | Owner of Misaki
-
-
-# Misaki
+<a href="https://github.com/whiskeysockets"><img src="https://github.com/whiskeysockets.png?size=100" width="100" height="100"></a> | [![Irfan](https://github.com/rtwone.png?size=100)](https://github.com/rtwone) | [![Yoga](https://github.com/YogGanz.png?size=100)](https://github.com/YogGanz) | [![Caliph](http://github.com/caliphdev.png?size=100)](http://github.com/caliphdev) | [![Handoko](http://github.com/handoko19.png?size=100)](http://github.com/handoko19) | [![Arthur](http://github.com/arthur-md.png?size=100)](http://github.com/arthur-md) | [![FauziDevID](http://github.com/oziispedzz.png?size=100)](http://github.com/oziispedzz)
+----|----|----|----|----|----|----
+[Whiskeysockets](https://github.com/whiskeysockets) | [Irfan](https://github.com/rtwone) | [Yoga](https://github.com/YogGanz) | [Caliph](https://github.com/caliphdev) | [Handoko](https://github.com/handoko19) | [Arthur](https://github.com/arthur-md) | [FauziDevID](https://github.com/oziispedzz)
+Owner of Baileys | Owner of Chitanda | My Inspiration | Owner of Caliph api | For Help | Pesatir | Owner of Misaki
