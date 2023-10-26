@@ -70,12 +70,12 @@ global.background = "https://telegra.ph/file/5361453b7995459b67357.jpg";
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](#)<br>
+[`Click Here For Tutorial`](https://youtu.be/rhN43yLAEV0?si=TEkJwjdUDFeAIvQp)<br>
 
 ----------
 
 <p align="center">
-  <a href="#"><img src="https://telegra.ph/file/8d198821ee59f1f29ec7c.jpg" />
+  <a href="https://youtu.be/rhN43yLAEV0?si=TEkJwjdUDFeAIvQp"><img src="https://telegra.ph/file/8d198821ee59f1f29ec7c.jpg" />
 </p>
 
 ## Donate
